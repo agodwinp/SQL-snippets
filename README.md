@@ -17,6 +17,9 @@ This is a public repository for SQL code snippets that I'd like to share.
 - This code provides a template to use the HANA PAL Multivariate Analysis procedure.
 - This algorithm, using the current configuration, will generate a Pearson's R Correlation matrix for the chosen table. 
 
+#### HANA SQL/create_grant_access_schema.sql
+- This code is a short template to create a schema and grant access for a chosen user to it. 
+
 
 ## Authors
 - Arun Godwin Patel
