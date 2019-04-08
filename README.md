@@ -20,6 +20,10 @@ This is a public repository for SQL code snippets that I'd like to share.
 #### HANA SQL/create_grant_access_schema.sql
 - This code is a short template to create a schema and grant access for a chosen user to it. 
 
+#### HANA SQL/create_tenant_db.sql
+- This code is a template to create a tenant database.
+- Also, it will help you to start the diserver and scriptserver.
+
 
 ## Authors
 - Arun Godwin Patel
