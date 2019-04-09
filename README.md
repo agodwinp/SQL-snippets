@@ -24,6 +24,9 @@ This is a public repository for SQL code snippets that I'd like to share.
 - This code is a template to create a tenant database.
 - Also, it will help you to start the diserver and scriptserver.
 
+#### HANA SQL/fill_nulls.sql
+- This code is a short snippet to help you fill null values within a table, with your chosen value.
+
 
 ## Authors
 - Arun Godwin Patel
