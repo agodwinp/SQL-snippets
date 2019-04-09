@@ -27,6 +27,9 @@ This is a public repository for SQL code snippets that I'd like to share.
 #### HANA SQL/fill_nulls.sql
 - This code is a short snippet to help you fill null values within a table, with your chosen value.
 
+#### HANA SQL/grant_create_view_access_on_schema.sql
+- This code is a short snippet to grant access to create views on a schema.
+
 
 ## Authors
 - Arun Godwin Patel
