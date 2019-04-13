@@ -1,4 +1,4 @@
--- This code assumes that you have 4 tables to join with a common '<key>'
+-- This code assumes that you have 5 tables to join with a common '<key>'
 
 use ['<name of database>']
 
